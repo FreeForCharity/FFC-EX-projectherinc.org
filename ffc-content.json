@@ -1,0 +1,30 @@
+{
+  "domain": "projectherinc.org",
+  "charityName": "ProjectHER, Inc.",
+  "websiteSituation": "",
+  "currentWebsiteUrl": "https://projectherinc.org/",
+  "domainRegistrar": "Squarespace",
+  "requesterGitHubUsername": "clarkemoyer",
+  "technicalPocGitHubUsername": "",
+  "cloudflareZoneControlled": false,
+  "footer": {
+    "email": "projectherinc.org@gmail.com",
+    "phone": "3522262436",
+    "address": "402 NE 48th St, Gainesville, FL 32641-6043",
+    "ein": "39-3050582",
+    "irsStatus": "501(c)(3) (approved)",
+    "guideStarProfileUrl": "https://www.guidestar.org/profile/39-3050582",
+    "guideStarDirectProfileUrl": "https://www.guidestar.org/profile/39-3050582",
+    "socialLinks": [
+      "facebook: https://www.facebook.com/share/1GSH1eAwAS/",
+      "linkedin: https://www.linkedin.com/company/projecther-inc/"
+    ],
+    "mission": "ProjectHER bridges opportunity gaps by delivering world-class education and mentorship to Black girls ages 14-22, equipping them with skills to lead, create, and thrive globally.",
+    "donationUrl": "",
+    "volunteerUrl": ""
+  },
+  "leadership": ["Bethany Anderson | Chief Operating Staff |"],
+  "generatedUtc": "2026-11-12T22:44:03.2357379Z",
+  "pendingFields": ["donationUrl", "volunteerUrl"],
+  "pendingRendered": true
+}
