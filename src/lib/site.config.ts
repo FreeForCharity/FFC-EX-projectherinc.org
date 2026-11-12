@@ -240,7 +240,7 @@ export type SiteConfig = {
 
 export const siteConfig: SiteConfig = {
   name: 'ProjectHER, Inc.',
-  tagline: 'Nonprofit Organization',
+  tagline: 'Her Mission to Change the World.',
   mission:
     'ProjectHER bridges opportunity gaps by delivering world-class education and mentorship to Black girls ages 14-22, equipping them with skills to lead, create, and thrive globally.',
   // Empty = a charity's Donate / Volunteer sections email contactEmail instead.
@@ -257,7 +257,16 @@ export const siteConfig: SiteConfig = {
   url: 'https://freeforcharity.github.io',
   twitterHandle: '',
   contactEmail: 'projectherinc.org@gmail.com',
-  keywords: ['nonprofit', 'charity', 'donate', 'volunteer', 'ProjectHER, Inc.'],
+  keywords: [
+    'ProjectHER',
+    'ProjectHER, Inc.',
+    'Gainesville nonprofit',
+    'mentorship',
+    'education',
+    'leadership',
+    'internship',
+    'nonprofit',
+  ],
   themeColor: '#ffffff',
   vulnerabilityDisclosurePath: '/vulnerability-disclosure-policy',
   social: [
@@ -265,14 +274,15 @@ export const siteConfig: SiteConfig = {
     { label: 'LinkedIn', href: 'https://www.linkedin.com/company/projecther-inc/' },
   ],
   ein: '39-3050582',
+  foundingDate: '2025',
   nonprofitStatus: 'https://schema.org/Nonprofit501c3',
-  phone: { display: '3522262436', tel: '3522262436' },
+  alternateNames: ['ProjectHER'],
+  phone: { display: '(352) 226-2436', tel: '+13522262436' },
   addresses: [
     {
       label: 'Main Address',
-      lines: ['402 NE 48th St, Gainesville, FL 32641-6043'],
-      mapUrl:
-        'https://www.google.com/maps/search/?api=1&query=402%20NE%2048th%20St%2C%20Gainesville%2C%20FL%2032641-6043',
+      lines: ['Gainesville, Florida'],
+      mapUrl: 'https://www.google.com/maps/search/?api=1&query=Gainesville%2C%20Florida',
     },
   ],
   guidestar: {
