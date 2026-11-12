@@ -270,8 +270,9 @@ export const siteConfig: SiteConfig = {
   addresses: [
     {
       label: 'Main Address',
-      lines: ['Gainesville, Florida'],
-      mapUrl: 'https://www.google.com/maps/search/?api=1&query=Gainesville%2C%20Florida',
+      lines: ['402 NE 48th St, Gainesville, FL 32641-6043'],
+      mapUrl:
+        'https://www.google.com/maps/search/?api=1&query=402%20NE%2048th%20St%2C%20Gainesville%2C%20FL%2032641-6043',
     },
   ],
   guidestar: {
