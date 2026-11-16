@@ -14,7 +14,7 @@
 #
 # The base image is pinned by digest; Dependabot (docker ecosystem,
 # directory /.oss-scanner) keeps the digest current.
-FROM node:24-bookworm@sha256:3d27e5c11e5786e309ec3e03f93ae536eb36e6e5eb3714d5eb3300a36157add0
+FROM node:26-bookworm@sha256:b7087bc4d973034b30854b378ba107f9fab622b47514cb7e2592e41b8bab8d49
 
 ENV CI=true \
     NEXT_TELEMETRY_DISABLED=1 \
